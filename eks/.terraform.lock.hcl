@@ -1,7 +1,7 @@
 # This file is maintained automatically by "terraform init".
 # Manual edits may be lost in future updates.
 
-provider "registry.terraform.io/hashicorp/aws" {
+/*provider "registry.terraform.io/hashicorp/aws" {
   version     = "5.49.0"
   constraints = "~> 5.49.0"
   hashes = [
@@ -61,3 +61,4 @@ provider "registry.terraform.io/hashicorp/tls" {
     "zh:f569b65999264a9416862bca5cd2a6177d94ccb0424f3a4ef424428912b9cb3c",
   ]
 }
+*/
